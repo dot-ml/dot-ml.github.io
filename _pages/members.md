@@ -4,7 +4,7 @@ title: members
 permalink: /members/
 description: Current, past, and future members.
 nav: true
-display_categories: [work, fun]
+display_categories: [current, past]
 horizontal: false
 ---
 

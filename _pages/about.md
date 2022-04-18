@@ -2,12 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Data-Oriented & Trustworthy Machine Learning Group
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: construction.png
   address: >
+    <p>Harvard University</p>
     <p>Science and Egineering Complex</p>
     <p>150 Western Ave</p>
     <p>Boston, MA 02134</p>
@@ -17,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! This is the home webpage for the dotML (Data-Oriented & Trustworthy Machine Learning) group at Harvard University, headed by [David Alvarez-Melis](https://dmelis.github.io). 
+Welcome! This is the home webpage for the dotML (Data-Oriented & Trustworthy Machine Learning) group at Harvard University, led by [David Alvarez-Melis](https://dmelis.github.io).
 
 The group will officially launch in the summer of 2023. Stay tuned!
 
